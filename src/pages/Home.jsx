@@ -6,7 +6,7 @@ const Home = () => {
 
   const url = "http://localhost:3000/products"
 
-  const {data: items, loading, error} = useFetch(url)
+  const {data: items, error} = useFetch(url)
 
   return (
     <div>
