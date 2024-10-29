@@ -22,13 +22,13 @@ Este projeto explora as funcionalidades e recursos principais do React Router, i
 1. Clone este repositório:
 
     ```bash
-    git clone <URL-do-repositorio>
+    git clone https://github.com/thales0591/react-router-react.git
     ```
 
 2. Navegue até a pasta do projeto:
 
     ```bash
-    cd nome-do-projeto
+    cd react-router-react
     ```
 
 3. Instale as dependências:
