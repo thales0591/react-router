@@ -6,7 +6,7 @@ const Search = () => {
     // console.log(searchParams)
     const url = "http://localhost:3000/products?" + searchParams
 
-    const {data:items, loading, error} = useFetch(url)
+    const {data:items} = useFetch(url)
 
 
   return (
